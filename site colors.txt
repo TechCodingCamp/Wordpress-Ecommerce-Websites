@@ -1,0 +1,65 @@
+Thanks for watching this course
+
+Hi there! if you want to apply same color scheme as i have done in the videos then you
+can copy these colors from here
+*************************************************************************************
+
+
+
+3 columns Icon structure Colors:
+
+#A56F0AA3: Icon and Heading1 color
+
+_________________________________________
+Tabs Colors
+
+#64714C: EXPLORE OUR NEW PRODUCTS (Heading)
+#A5A6A6: Tab Normal Color
+#754F4F: Tab Active Color
+_________________________________________
+Categories Colors
+
+#64714C: Heading Categories Color
+#114C1975: button color
+#DDAE3D7D: button hover over
+____________________________________
+Recipes Colors
+
+#CC9F2347: Full Background color 
+#CC9F238F: Recipes background color
+#A2801480: Read more button color
+_____________________________________
+Footer Colors
+
+#7e0c5: Footer Background color
+#4c4c4c: Footer Text Color
+#4c4c4c: Footer Link Color
+#dd9933: Primary Color
+#c6c6c6: Footor Bootom Background color
+
+_______________________________________
+Shoping Cart 
+
+#ffcccc: Side Bar Car Background
+_______________________________________
+Contact Us Page
+
+#D29E45D1: Heading Color(Contact Us for any question)
+#152B35CF: Sub-Heading Color
+#152B35CF: Details Color
+#D29E45D1: Get In Touch Color
+______________________________________
+About us Page
+
+#E4A16E: Same color used for counters
+
+
+
+*****************************************************
+Advance website colors
+*****************************************************
+Topbar,Header,Menu colors:
+
+rgba(207,193,180,0.79): Header bar color (just right in color code text area don't worry about rgba formate)
+rgba(25,43,50,0.89): Menu bar color (just right in color code text area don't worry about rgba formate)
+#b2a8a8: Top bar color
